@@ -30,7 +30,7 @@
 
 #### CSS
 
-- [Home - Scalable and Modular Architecture for CSS](http://smacss.com/)
+- [Home - Scalable and Modular Architecture for CSS](https://smacss.com/)
 - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - [HTML Symbols, Entities and Codes — Toptal Designers](https://www.toptal.com/designers/htmlarrows/symbols/)
 - [Hungarian character table | Character Table](https://character-table.netlify.app/hungarian/#unicode-ranges)
