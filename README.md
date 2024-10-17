@@ -33,6 +33,7 @@
 #### JavaScript-TypeScript
 
 - [You don't need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  - [Temporal proposal](https://tc39.es/proposal-temporal/docs/)
 - [Hard-to-debug unhandled rejection cases](https://advancedweb.hu/hard-to-debug-unhandled-rejection-cases/)
 
 ## Devtools
