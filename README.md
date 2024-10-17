@@ -1,5 +1,7 @@
 # Bookmarks from Letscode.hu community Slack
 
+[![Markdown lint](https://github.com/norbertpapp/letscodehu-bookmarks/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/norbertpapp/letscodehu-bookmarks/actions/workflows/markdown-lint.yml)
+
 ## Contents
 
 - [Knowhow](#knowhow)
