@@ -10,6 +10,7 @@
     - [JavaScript-TypeScript](#javascript-typescript)
     - [Frameworks](#frameworks)
 - [Devtools](#devtools)
+  - [Docker](#docker)
   - [Image processing, converters](#image-processing)
   - [Editors, IDEs](#editors-ides)
   - [Resources](#resources)
@@ -18,17 +19,21 @@
 
 ### Backend
 
-- Coming soon
+#### PHP
+- [Lightweight Template Engine with PHP](https://codeshack.io/lightweight-template-engine-php/)
 
 ### DevOps
 
-- Coming soon
+- [Nixery](https://nixery.dev/)
 
 ### Frontend
 
 #### CSS
 
+- [Home - Scalable and Modular Architecture for CSS](http://smacss.com/)
 - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
+- [HTML Symbols, Entities and Codes — Toptal Designers](https://www.toptal.com/designers/htmlarrows/symbols/)
+- [Hungarian character table | Character Table](https://character-table.netlify.app/hungarian/#unicode-ranges)
 
 #### JavaScript-TypeScript
 
@@ -38,8 +43,21 @@
 
 ## Devtools
 
+### Docker
+
+- [Visual Docker Compose editor](https://nuxx.io/)
+
 ### Image processing
+- [Squoosh](https://squoosh.app/)
 - [SVG Converter](https://svgconverter.app/)
+
+### Editors, IDEs
+
+- [Graphite | Web-based vector graphics editor and design tool](https://graphite.rs/)
 
 ### Resources
 - [PDF, video, image and other online tools](https://tinywow.com/)
+- [Pattern Monster - SVG Pattern Generator](https://pattern.monster/)
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+- [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
+- [Create Customizable, Hi-Def, and Scalable Backgrounds](https://www.svgbackgrounds.com/)
