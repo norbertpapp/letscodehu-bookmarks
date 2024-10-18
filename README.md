@@ -12,10 +12,10 @@
     - [JavaScript-TypeScript](#javascript-typescript)
     - [Frameworks](#frameworks)
 - [Devtools](#devtools)
-  - [Git](#git)
   - [Docker](#docker)
-  - [Image processing, converters](#image-processing)
   - [Editors, IDEs](#editors-ides)
+  - [Git](#git)
+  - [Image processing, converters](#image-processing)
   - [Resources](#resources)
 
 ## Knowhow
@@ -25,7 +25,7 @@
 #### PHP
 - [Lightweight Template Engine with PHP](https://codeshack.io/lightweight-template-engine-php/)
 
-## DevOps
+### DevOps
 
 - [Nixery](https://nixery.dev/)
 
@@ -43,6 +43,8 @@
 - [You don't need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
   - [Temporal proposal](https://tc39.es/proposal-temporal/docs/)
 - [Hard-to-debug unhandled rejection cases](https://advancedweb.hu/hard-to-debug-unhandled-rejection-cases/)
+
+#### Frameworks
 
 ## Devtools
 
