@@ -12,6 +12,7 @@
     - [JavaScript-TypeScript](#javascript-typescript)
     - [Frameworks](#frameworks)
 - [Devtools](#devtools)
+  - [Git](#git)
   - [Docker](#docker)
   - [Image processing, converters](#image-processing)
   - [Editors, IDEs](#editors-ides)
@@ -48,6 +49,10 @@
 ### Docker
 
 - [Visual Docker Compose editor](https://nuxx.io/)
+
+### Git
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
 ### Image processing
 - [Squoosh](https://squoosh.app/)
