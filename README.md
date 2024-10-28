@@ -43,6 +43,9 @@
 - [You don't need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
   - [Temporal proposal](https://tc39.es/proposal-temporal/docs/)
 - [Hard-to-debug unhandled rejection cases](https://advancedweb.hu/hard-to-debug-unhandled-rejection-cases/)
+- [A Guide to Nested Promises, Anti-Patterns, and Alternatives](https://javascript.plainenglish.io/nested-promise-an-anti-pattern-alternative-to-it-a5069923a2ec)
+- [Promises chaining](https://javascript.info/promise-chaining)
+- [Refactoring Callback Hell to Promise Land](https://wesbos.com/javascript/12-advanced-flow-control/69-refactoring-callback-hell-to-promise-land)
 
 #### Frameworks
 
